@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/repl-typed-signature",
-  "version": "0.0.0",
+  "version": "0.0.8",
   "description": "Return the typed signature(s) associated with a provided alias.",
   "license": "Apache-2.0",
   "author": {
