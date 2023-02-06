@@ -271,7 +271,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 [cli-section]: https://github.com/stdlib-js/repl-typed-signature#cli
 [cli-url]: https://github.com/stdlib-js/repl-typed-signature/tree/cli
-[main-url]: https://github.com/stdlib-js/repl-typed-signature
+[@stdlib/repl-typed-signature]: https://github.com/stdlib-js/repl-typed-signature/tree/main
 
 [umd]: https://github.com/umdjs/umd
 [es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
