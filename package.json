@@ -59,7 +59,7 @@
     "@stdlib/random-base-discrete-uniform": "^0.0.6",
     "@stdlib/repl-help": "^0.0.8",
     "@stdlib/string-replace": "^0.0.11",
-    "@stdlib/utils-pluck": "github:stdlib-js/utils-pluck#main",
+    "@stdlib/utils-pluck": "^0.0.14",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
