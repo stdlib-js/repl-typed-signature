@@ -185,16 +185,16 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/repl-typed-signature-cli.svg
 [npm-url]: https://npmjs.org/package/@stdlib/repl-typed-signature-cli
 
-[test-image]: https://github.com/stdlib-js/repl-typed-signature/actions/workflows/test.yml/badge.svg?branch=v0.2.0
-[test-url]: https://github.com/stdlib-js/repl-typed-signature/actions/workflows/test.yml?query=branch:v0.2.0
+[test-image]: https://github.com/stdlib-js/repl-typed-signature@v0.2.0/actions/workflows/test.yml/badge.svg?branch=v0.2.0
+[test-url]: https://github.com/stdlib-js/repl-typed-signature@v0.2.0/actions/workflows/test.yml?query=branch:v0.2.0
 
-[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/repl-typed-signature/main.svg
-[coverage-url]: https://codecov.io/github/stdlib-js/repl-typed-signature?branch=main
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/repl-typed-signature@v0.2.0/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/repl-typed-signature@v0.2.0?branch=main
 
 <!--
 
-[dependencies-image]: https://img.shields.io/david/stdlib-js/repl-typed-signature.svg
-[dependencies-url]: https://david-dm.org/stdlib-js/repl-typed-signature/main
+[dependencies-image]: https://img.shields.io/david/stdlib-js/repl-typed-signature@v0.2.0.svg
+[dependencies-url]: https://david-dm.org/stdlib-js/repl-typed-signature@v0.2.0/main
 
 -->
 
@@ -205,20 +205,20 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
-[cli-section]: https://github.com/stdlib-js/repl-typed-signature#cli
-[cli-url]: https://github.com/stdlib-js/repl-typed-signature/tree/cli
-[@stdlib/repl-typed-signature]: https://github.com/stdlib-js/repl-typed-signature/tree/main
+[cli-section]: https://github.com/stdlib-js/repl-typed-signature@v0.2.0#cli
+[cli-url]: https://github.com/stdlib-js/repl-typed-signature@v0.2.0/tree/cli
+[@stdlib/repl-typed-signature]: https://github.com/stdlib-js/repl-typed-signature@v0.2.0/tree/main
 
 [umd]: https://github.com/umdjs/umd
 [es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
 
-[deno-url]: https://github.com/stdlib-js/repl-typed-signature/tree/deno
-[deno-readme]: https://github.com/stdlib-js/repl-typed-signature/blob/deno/README.md
-[umd-url]: https://github.com/stdlib-js/repl-typed-signature/tree/umd
-[umd-readme]: https://github.com/stdlib-js/repl-typed-signature/blob/umd/README.md
-[esm-url]: https://github.com/stdlib-js/repl-typed-signature/tree/esm
-[esm-readme]: https://github.com/stdlib-js/repl-typed-signature/blob/esm/README.md
-[branches-url]: https://github.com/stdlib-js/repl-typed-signature/blob/main/branches.md
+[deno-url]: https://github.com/stdlib-js/repl-typed-signature@v0.2.0/tree/deno
+[deno-readme]: https://github.com/stdlib-js/repl-typed-signature@v0.2.0/blob/deno/README.md
+[umd-url]: https://github.com/stdlib-js/repl-typed-signature@v0.2.0/tree/umd
+[umd-readme]: https://github.com/stdlib-js/repl-typed-signature@v0.2.0/blob/umd/README.md
+[esm-url]: https://github.com/stdlib-js/repl-typed-signature@v0.2.0/tree/esm
+[esm-readme]: https://github.com/stdlib-js/repl-typed-signature@v0.2.0/blob/esm/README.md
+[branches-url]: https://github.com/stdlib-js/repl-typed-signature@v0.2.0/blob/main/branches.md
 
 [pddl-1.0]: http://opendatacommons.org/licenses/pddl/1.0/
 
