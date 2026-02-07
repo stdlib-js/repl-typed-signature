@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import typedSignature from 'https://cdn.jsdelivr.net/gh/stdlib-js/repl-typed-signature@esm/index.mjs';
+import typedSignature from 'https://cdn.jsdelivr.net/gh/stdlib-js/repl-typed-signature@v0.4.1-esm/index.mjs';
 ```
 
 #### typedSignature( alias )
@@ -101,7 +101,7 @@ var txt = typedSignature( 'unrecognized_alias_beep_boop_bop_bip' );
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
 import aliases from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-aliases@esm/index.mjs';
-import typedSignature from 'https://cdn.jsdelivr.net/gh/stdlib-js/repl-typed-signature@esm/index.mjs';
+import typedSignature from 'https://cdn.jsdelivr.net/gh/stdlib-js/repl-typed-signature@v0.4.1-esm/index.mjs';
 
 var list;
 var len;
